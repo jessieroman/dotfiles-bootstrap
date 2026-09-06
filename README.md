@@ -7,7 +7,7 @@ give the private repo's install a stable, unauthenticated `curl | sh`
 URL:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/jessieroman/dotfiles-bootstrap/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/jessieroman/dotfiles-bootstrap/3e17abac3e403b6858ca7634af1b62a72e64c79d/install.sh | sh
 ```
 
 `install.sh` here does exactly one thing: clone or update
